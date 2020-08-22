@@ -5,3 +5,6 @@ $Name= Puja;
 echo"Number=$no";
 echo"<br>Value of Pi=$Pi";
 echo"<br>Name=$Name";
+echo settype($no,string);
+echo gettype($no);
+?>
