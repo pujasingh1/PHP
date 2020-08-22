@@ -1,0 +1,10 @@
+<?php
+echo"Logical Operator";
+$t1= 50;
+$t2= 10;
+$t3= 20;
+if($t1>$t2 and $t1>$t3)
+{
+echo "$t1 is greater than $t2 and $t3";
+}
+?>
