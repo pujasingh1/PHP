@@ -1,0 +1,7 @@
+<?php
+$no= 10;
+$Pi= 3.14;
+$Name= Puja;
+echo"Number=$no";
+echo"<br>Value of Pi=$Pi";
+echo"<br>Name=$Name";
