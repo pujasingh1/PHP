@@ -1,12 +1,12 @@
 <?php
-$C1= 100;
-$C2= 15;
-$C3= 20;
-if($C1>$C2)
+$c1= 100;
+$c2= 15;
+$c3= 20;
+if($c1>$c2)
 {
-if($C1>$C3)
+if($c1>$c3)
 {
-echo "C1 has greater value";
+echo "c1 has greater value";
 }
 }
 ?>
